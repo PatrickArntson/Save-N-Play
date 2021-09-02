@@ -24,7 +24,7 @@ outer_ctx = None            # used to give the background loop access to the voi
 
 # Youtube Playlist/Web-scraping Setup
 options = Options()
-file_path = 'FILE PATH TO AN EMPTY FILE HERE'
+file_path = 'FILE PATH TO AN EMPTY FOLDER HERE'
 options.add_argument("user-data-dir=" + str(file_path))
 playlists = {'funny': 'YOUR PLAYLIST URL PAGE HERE',
              'music': 'YOUR PLAYLIST URL PAGE HERE'}
