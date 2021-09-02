@@ -1,6 +1,6 @@
 # Save-N-Play
 
-Discord Bot for streaming youtube audio to a discord voice server. The bot allows a user to play an existing youtube playlists. If the user is signed in to youtube, it allows the user to add videos to their own playlists. 
+Discord Bot for streaming Youtube audio to a Discord voice server. The bot allows a user to play an existing Youtube playlists. If the user is signed in to Youtube, it allows the user to add videos to their own playlists. 
 
 **REQUIREMENTS/NOTES**
 
